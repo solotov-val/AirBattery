@@ -1,0 +1,15 @@
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\bin\Debug\net7.0-windows\AirBattery.exe
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\bin\Debug\net7.0-windows\AirBattery.deps.json
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\bin\Debug\net7.0-windows\AirBattery.runtimeconfig.json
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\bin\Debug\net7.0-windows\AirBattery.dll
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\bin\Debug\net7.0-windows\AirBattery.pdb
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\AirBattery.csproj.AssemblyReference.cache
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\AirBattery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\AirBattery.AssemblyInfoInputs.cache
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\AirBattery.AssemblyInfo.cs
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\AirBattery.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\AirBattery.dll
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\refint\AirBattery.dll
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\AirBattery.pdb
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\AirBattery.genruntimeconfig.cache
+C:\Users\Patrick\RiderProjects\AirBattery\AirBattery\obj\Debug\net7.0-windows\ref\AirBattery.dll
