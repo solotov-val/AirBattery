@@ -8,9 +8,21 @@ static class Program
     [STAThread]
     static void Main()
     {
-        // To customize application configuration such as set high DPI settings or default font,
-        // see https://aka.ms/applicationconfiguration.
-        ApplicationConfiguration.Initialize();
-        Application.Run(new MainForm());
+        Application.EnableVisualStyles();
+        Application.SetCompatibleTextRenderingDefault(false);
+
+        AirBatteryForm? mainForm;
+        try
+        {
+            mainForm = new AirBatteryForm();
+        }
+        catch (Exception ex)
+        {
+            MessageBox.Show("Error: " + ex.Message);
+            return;
+        }
+
+        Application.Run(mainForm);
     }
+
 }

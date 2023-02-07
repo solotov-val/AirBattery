@@ -2,7 +2,7 @@ using System.ComponentModel;
 
 namespace AirBattery;
 
-partial class MainForm
+partial class AirBatteryForm
 {
     /// <summary>
     /// Required designer variable.
